@@ -1,7 +1,7 @@
 
 happy
 
-your_favorite_word = "happy"
+your_favorite_word = happy
 
 puts "My favorite word is #{your_favorite_word}"
 
